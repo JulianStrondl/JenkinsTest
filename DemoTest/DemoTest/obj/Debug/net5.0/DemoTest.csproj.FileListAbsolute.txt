@@ -1,0 +1,16 @@
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.exe
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.deps.json
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.runtimeconfig.json
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.runtimeconfig.dev.json
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.dll
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\bin\Debug\net5.0\ref\DemoTest.dll
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.pdb
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.csprojAssemblyReference.cache
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.AssemblyInfoInputs.cache
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.AssemblyInfo.cs
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.dll
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\ref\DemoTest.dll
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.pdb
+C:\Users\Julian\Desktop\Diplomarbeit\JenkinsTest\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.genruntimeconfig.cache
